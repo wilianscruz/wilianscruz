@@ -20,12 +20,12 @@
   
   
 <div> 
-  <a href="http://wa.me/5518991115515" target="_blank"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" target="_blank"></a>
-  <a href="https://t.me/Wilianscardoso" target="_blank"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" target="_blank"></a>
- 
-   <a href = "mailto:wilians.msc@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/wilians-marcos-cardoso-da-cruz-987279142/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+  <div style="display: inline_block"><br>
+  <a href = "http://wa.me/5518991115515" target="_blank"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"              target="_blank"></a>
+  <a href = "https://t.me/Wilianscardoso" target="_blank"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"              target="_blank"></a>
+  <a href = "mailto:wilians.msc@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href = "https://www.linkedin.com/in/wilians-marcos-cardoso-da-cruz-987279142/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-              the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
  
   ![Snake animation](https://github.com/wilianscruz/wilianscruz/blob/output/github-contribution-grid-snake.svg)
- 
+  </div>
 </div>
